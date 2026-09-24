@@ -1,0 +1,24 @@
+.inputColor{
+    background-color: rgb(240, 222, 175);
+    border-style:outset;
+    border-color: orange;
+    border-radius: 10px;
+}
+
+.flex-input-text
+{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    align-content: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+
+    border-style: solid;
+    border-color: rgb(222, 158, 38);
+    box-shadow: 0px 0px 15px 5px rgb(210, 169, 134);
+    border-radius: 100px;
+    margin: auto;
+    padding: 30px;
+    width: 450px;
+}
